@@ -7,9 +7,9 @@ Simple pygame tetris just for fun
 
 ### Game Controls:
 
-    Key a - move the pick to the left
-    Key d - move the pick to the right
-    Key s - move the pick down
+    Key a - move the brick to the left
+    Key d - move the brick to the right
+    Key s - move the brick down
     Key e - rotate the brick 90 degrees clockwise
     Key q - rotate the brick 90 degrees counterclockwise
     Key space - move the brick down
